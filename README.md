@@ -20,11 +20,6 @@ You won't find basic hello world demos here. The demos have been intentionally d
 
 Each pattern is implemented and discussed via **a pull request**. **View** the PRs. **Read** the descriptions. Read the **comments**. Like you do at work!
 
-## Coming from my Udemy Course?
-
-- The branch we start off from is branch `clean-slate`. [See branch](https://github.com/ohansemmanuel/advanced-react-patterns-ultrasimplified/tree/clean-slate)
-- The development DEMO site lives here: https://dev-advanced-react-patterns-ultrasimplified.netlify.com/
-
 ## But I'm just a beginner. Isn't this too advanced?
 
 Every implementation is well explained with comments, diagrams and notes (in progress). You've got this.
